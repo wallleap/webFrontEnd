@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/prepare/02_GulpTest" libraries="{ProjectBuild/prepare/02_GulpTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/prepare/03_WebpackTest" libraries="{ProjectBuild/prepare/03_WebpackTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/test" libraries="{ProjectBuild/test/node_modules}" />
+    <file url="file://$PROJECT_DIR$/work/01_GruntTest" libraries="{ProjectBuild/work/01_GruntTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/work/02_GulpTest" libraries="{ProjectBuild/work/02_GulpTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/work/03_WebpackTest" libraries="{ProjectBuild/work/03_WebpackTest/node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>

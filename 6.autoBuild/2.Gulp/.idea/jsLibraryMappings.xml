@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/code/ProjectBuild/prepare/01_GruntTest" libraries="{project build/code/ProjectBuild/prepare/01_GruntTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/code/ProjectBuild/prepare/02_GulpTest" libraries="{project build/code/ProjectBuild/prepare/02_GulpTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/code/ProjectBuild/prepare/03_WebpackTest" libraries="{project build/code/ProjectBuild/prepare/03_WebpackTest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/code/ProjectBuild/work/02_GulpTest" libraries="{project build/code/ProjectBuild/work/02_GulpTest/node_modules}" />
+  </component>
+</project>

@@ -1,0 +1,199 @@
+/*定义四个方向的动画*/
+
+.pt-page-moveToLeft {
+	-webkit-animation: moveToLeft .6s ease both;
+	animation: moveToLeft .6s ease both;
+}
+
+.pt-page-moveFromLeft {
+	-webkit-animation: moveFromLeft .6s ease both;
+	animation: moveFromLeft .6s ease both;
+}
+
+.pt-page-moveToRight {
+	-webkit-animation: moveToRight .6s ease both;
+	animation: moveToRight .6s ease both;
+}
+
+.pt-page-moveFromRight {
+	-webkit-animation: moveFromRight .6s ease both;
+	animation: moveFromRight .6s ease both;
+}
+
+.pt-page-moveToTop {
+	-webkit-animation: moveToTop .6s ease both;
+	animation: moveToTop .6s ease both;
+}
+
+.pt-page-moveFromTop {
+	-webkit-animation: moveFromTop .6s ease both;
+	animation: moveFromTop .6s ease both;
+}
+
+.pt-page-moveToBottom {
+	-webkit-animation: moveToBottom .6s ease both;
+	animation: moveToBottom .6s ease both;
+}
+
+.pt-page-moveFromBottom {
+	-webkit-animation: moveFromBottom .6s ease both;
+	animation: moveFromBottom .6s ease both;
+}
+/*定义四个方向动画的实现过程*/
+
+
+@-webkit-keyframes moveToLeft {
+	from { }
+	to { -webkit-transform: translateX(-100%); }
+}
+@keyframes moveToLeft {
+	from {}
+	to { -webkit-transform: translateX(-100%); transform: translateX(-100%); }
+}
+
+@-webkit-keyframes moveFromLeft {
+	from { -webkit-transform: translateX(-100%); }
+}
+@keyframes moveFromLeft {
+	from { -webkit-transform: translateX(-100%); transform: translateX(-100%); }
+}
+
+@-webkit-keyframes moveToRight { 
+	from { }
+	to { -webkit-transform: translateX(100%); }
+}
+@keyframes moveToRight { 
+	from { }
+	to { -webkit-transform: translateX(100%); transform: translateX(100%); }
+}
+
+@-webkit-keyframes moveFromRight {
+	from { -webkit-transform: translateX(100%); }
+}
+@keyframes moveFromRight {
+	from { -webkit-transform: translateX(100%); transform: translateX(100%); }
+}
+
+@-webkit-keyframes moveToTop {
+	from { }
+	to { -webkit-transform: translateY(-100%); }
+}
+@keyframes moveToTop {
+	from { }
+	to { -webkit-transform: translateY(-100%); transform: translateY(-100%); }
+}
+
+@-webkit-keyframes moveFromTop {
+	from { -webkit-transform: translateY(-100%); }
+}
+@keyframes moveFromTop {
+	from { -webkit-transform: translateY(-100%); transform: translateY(-100%); }
+}
+
+@-webkit-keyframes moveToBottom {
+	from { }
+	to { -webkit-transform: translateY(100%); }
+}
+@keyframes moveToBottom {
+	from { }
+	to { -webkit-transform: translateY(100%); transform: translateY(100%); }
+}
+
+@-webkit-keyframes moveFromBottom {
+	from { -webkit-transform: translateY(100%); }
+}
+@keyframes moveFromBottom {
+	from { -webkit-transform: translateY(100%); transform: translateY(100%); }
+}
+
+
+
+/*iconUp*/
+.pt-page-moveIconUp {
+	animation: moveIconUp ease 1.5s both infinite;
+}
+
+
+@keyframes moveIconUp {
+	0% { -webkit-transform: translateY(100%); transform: translateY(100%); opacity:0;}
+	50% { -webkit-transform: translateY(0%); transform: translateY(0%); opacity:1;}
+	100% { -webkit-transform: translateY(-100%); transform: translateY(-100%); opacity:0;}
+}
+
+/*moveCircle*/
+.pt-page-moveCircle{
+	animation: moveCircle 1.2s ease-in-out;
+}
+
+@-webkit-keyframes moveCircle{
+	0%{transform: translateY(-80%);opacity: 0.1;}
+	5%{transform: translateY(-80%);opacity: 0.3;}
+	35%{transform: translateY(10%);opacity: 0.8;}
+	60%{transform: translateY(-30%);opacity: 0.8;}
+	65%{transform: translateY(-20%);opacity: 0.8;}
+	100%{transform: translateY(0%);opacity: 1;}
+}
+/*scaleUp*/
+.pt-page-scaleUp{
+	animation:scaleUp 0.6s ease;
+}
+
+@-webkit-keyframes scaleUp{
+	from{transform: scale(0.4);}
+	to{}
+}
+/*flipInLeft*/
+.pt-page-flipInLeft{
+	transform-origin: 50% 50%;
+	animation: flipInLeft .5s both ease-out;
+}
+@-webkit-keyframes flipInLeft{
+	from { -webkit-transform:rotateY(-90deg); opacity: 0.2; }
+}
+
+
+/*定义page-5-1*/
+.pt-page-rotateCubeBottomIn{
+	animation:rotateCubeBottomIn .6s ease-in both ;
+	transform-origin: 50% 100%;
+}
+
+@keyframes rotateCubeBottomIn {
+	0%{transform: translateY(-100%) rotateX(90deg);opacity: 0.3}
+	50%{animation-timing-function: ease-out; transform: translateY(-50%) translateZ(-200px) rotateX(45deg);}
+}
+
+.pt-page-rotateCubeTopIn{
+	animation: rotateCubeTopIn 0.6s ease both;
+	transform-origin: 100% 50%;
+}
+
+@keyframes rotateCubeTopIn {
+	0%{translateY(100%) rotateX(-90deg);opacity: 0.3}
+	50%{animation-timing-function: ease-out;transform:translateY(50%) translateZ(-200px) rotateX(-45deg) ;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>10_ComponentLife</title>
+</head>
+<body>
+<div id="example"></div>
+
+<script type="text/javascript" src="../js/react.development.js"></script>
+<script type="text/javascript" src="../js/react-dom.development.js"></script>
+<script type="text/javascript" src="../js/babel.min.js"></script>
+<script type="text/babel">
+  /*
+  需求: 自定义组件
+    1. 让指定的文本做显示/隐藏的动画
+    2. 切换时间为2S
+    3. 点击按钮从界面中移除组件界面
+   */
+  class Life extends React.Component{
+
+    constructor(props){
+      super(props)
+      // 初始化状态
+      this.state = {
+        opacity: 1
+      }
+
+      this.distroyComponent = this.distroyComponent.bind(this)
+    }
+
+    distroyComponent(){
+      ReactDOM.unmountComponentAtNode(document.getElementById('example'))
+    }
+
+    // 重写方法
+    componentDidMount(){
+      // 启动循环定时器
+      this.intervalId = setInterval(function () { // 两个函数需要同一个变量，放到上一层共同组件上
+        console.log('定时器执行……')
+        let {opacity} = this.state
+        opacity -= 0.1
+        if(opacity<=0){
+          opacity = 1
+        }
+        // 更新状态
+        this.setState({opacity})
+      }.bind(this), 200) // componentDidMount的this
+    }
+    componentWillUnmount(){
+      // 清理定时器
+      clearInterval(this.intervalId)
+    }
+
+    render(){ // 一旦改变，就会重新调用;永远写在其他下方，构造器在最上方
+      const {opacity} = this.state
+      return(
+        <div>
+          <h2 style={{opacity: opacity}}>{this.props.msg}</h2>
+          <button onClick={this.distroyComponent}>不活了</button>
+        </div>
+      )
+    }// style中两个大括号，外面的代表写的是js代码，里面的是对象（样式名：值，也可以写ES6）
+  }
+
+  ReactDOM.render(<Life msg="react太难了"/>, document.getElementById('example'))
+</script>
+</body>
+</html>

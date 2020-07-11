@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/personal/main",
+    "pages/searchBook/main",
+    "pages/index/main",
+    "pages/booksList/main",
+    "pages/detail/main",
+    "pages/firstView/main"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#02a774",
+    "navigationBarTitleText": "硅谷书城",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/main",
+        "text": "图书列表",
+        "iconPath": "/static/imgs/tabs/book.png",
+        "selectedIconPath": "/static/imgs/tabs/book-active.png"
+      },
+      {
+        "pagePath": "pages/searchBook/main",
+        "text": "搜索图书",
+        "iconPath": "/static/imgs/tabs/todo.png",
+        "selectedIconPath": "/static/imgs/tabs/todo-active.png"
+      },
+      {
+        "pagePath": "pages/personal/main",
+        "text": "个人中心",
+        "iconPath": "/static/imgs/tabs/me.png",
+        "selectedIconPath": "/static/imgs/tabs/me-active.png"
+      }
+    ]
+  }
+}

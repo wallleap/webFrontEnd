@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/教程/Webpack快速入门教程.md" line="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0ebe5ce-3d2b-48b7-80e8-b65a02895289" name="Default" comment="" />
+    <ignored path="ProjectBuild.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ProjectBuild" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/less/test3.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test3.less" />
+        <option value="$PROJECT_DIR$/test/test1.js" />
+        <option value="$PROJECT_DIR$/test/test2.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/index.css" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/index.html" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/test1.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/js/bundle.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/js/content.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/index2.html" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test3.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/dist/index.html" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/build/js/build.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/js/test2.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/package.json" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/.jshintrc" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/js/test1.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/index.html" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/css/test2.css" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/css/test1.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/js/test2.js" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/js/test1.js" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/less/test3.less" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/index.html" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test1.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test2.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/package.json" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/js/build.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/dist/index.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/dist/index1.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/test.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/test.js" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/gulpfile.js" />
+        <option value="$PROJECT_DIR$/教程/Webpack快速入门教程.md" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/src/js/content.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/src/js/entry.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/src/css/test.css" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/index.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/package.json" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/webpack.config.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/index.html" />
+        <option value="$PROJECT_DIR$/test/src/test1.js" />
+        <option value="$PROJECT_DIR$/test/src/test2.js" />
+        <option value="$PROJECT_DIR$/test/src/main.js" />
+        <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/test/.babelrc" />
+        <option value="$PROJECT_DIR$/test/package.json" />
+        <option value="$PROJECT_DIR$/教程/Grunt快速入门教程.md" />
+        <option value="$PROJECT_DIR$/教程/Gulp快速入门教程.md" />
+        <option value="$PROJECT_DIR$/教程/webpack3快速入门教程.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/prepare/01_GruntTest/node_modules" />
+    <handled-path value="$PROJECT_DIR$/prepare/02_GulpTest/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="教程" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prepare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectBuild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prepare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_GulpTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\test\src" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\src\image" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\02_GulpTest\src\js" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\01_GruntTest\src\css" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\01_GruntTest\src\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\build" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\src\js" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\build\js" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\dist" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0ebe5ce-3d2b-48b7-80e8-b65a02895289" name="Default" comment="" />
+      <created>1492077582280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492077582280</updated>
+      <workItem from="1492077583424" duration="9722000" />
+      <workItem from="1492127739050" duration="36512000" />
+      <workItem from="1492173677815" duration="2019000" />
+      <workItem from="1492215563472" duration="1100000" />
+      <workItem from="1492695461020" duration="4719000" />
+      <workItem from="1492731635183" duration="491000" />
+      <workItem from="1492745904566" duration="2327000" />
+      <workItem from="1492770724467" duration="4738000" />
+      <workItem from="1492950859287" duration="10632000" />
+      <workItem from="1492991652049" duration="1673000" />
+      <workItem from="1492997409832" duration="17426000" />
+      <workItem from="1493037323497" duration="406000" />
+      <workItem from="1493078343285" duration="20341000" />
+      <workItem from="1494917749175" duration="8272000" />
+      <workItem from="1494981801691" duration="8981000" />
+      <workItem from="1495003272453" duration="5257000" />
+      <workItem from="1495152897824" duration="17124000" />
+      <workItem from="1495414463209" duration="15380000" />
+      <workItem from="1496678859343" duration="121000" />
+      <workItem from="1499080672158" duration="9660000" />
+      <workItem from="1499127081092" duration="29446000" />
+      <workItem from="1499180859222" duration="2000" />
+      <workItem from="1499180909659" duration="92000" />
+      <workItem from="1499181047414" duration="61000" />
+      <workItem from="1499181176422" duration="144000" />
+      <workItem from="1499181349783" duration="306000" />
+      <workItem from="1499213766465" duration="17504000" />
+      <workItem from="1510225452805" duration="1366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="225822000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28794643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30730897" sideWeight="0.50298506" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30605564" sideWeight="0.49701494" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3936877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30730897" sideWeight="0.50298506" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30730897" sideWeight="0.49701494" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20298508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3936877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/build/js/build.min.js" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/build/css/build.min.css" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/src/css/test1.css" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/src/css/test2.css" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/js/build.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/js/build.min.js" />
+    <entry file="file://$PROJECT_DIR$/prepare/02_GulpTest/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/js/test1.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/js/test2.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/less/test3.less" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/css/test3.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/css/build.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/css/build.min.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/css/test1.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/css/test2.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/package.json" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/dist/js/build.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/js/content.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/dist/build.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/build.js/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/test.html" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/test.js" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/Gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/js/content.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/js/entry.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/image/logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/image/big.jpg" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/build/js/ad3bbb39831c85a1736ea55a222f7fd1.jpg" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/build/js/build.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/css/test.css" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/package.json" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/build/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/教程/Webpack快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/test1.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/test2.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/test/dist/main.js" />
+    <entry file="file://$PROJECT_DIR$/test/build/build.js" />
+    <entry file="file://$PROJECT_DIR$/test/.babelrc" />
+    <entry file="file://$PROJECT_DIR$/test/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/test/package.json" />
+    <entry file="file://$PROJECT_DIR$/教程/Grunt快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-511">
+            <caret line="270" column="16" selection-start-line="270" selection-start-column="16" selection-end-line="270" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/Gulp快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-376">
+            <caret line="223" column="43" selection-start-line="223" selection-start-column="43" selection-end-line="223" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/webpack3快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="297">
+            <caret line="206" column="12" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

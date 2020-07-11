@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
+		<title></title>
+		<style type="text/css">
+			*{
+				margin: 0;
+				padding: 0;
+			}
+			.item{
+				position: absolute;
+				left: 0;
+				top: 0;
+				width: 200px;
+				height:200px;
+				background: pink;
+				opacity: .5;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div class="item"></div>
+	</body>
+	<script type="text/javascript">
+		window.onload=function(){
+			var item = document.querySelector(".item");		
+			item.addEventListener("click",function(){
+				console.log("click");
+			})
+			
+			item.addEventListener("touchend",function(){
+				console.log("touchend");
+			})
+			
+			item.addEventListener("touchstart",function(){
+				console.log("touchstart");
+			})
+		}
+		
+		
+	</script>
+</html>
